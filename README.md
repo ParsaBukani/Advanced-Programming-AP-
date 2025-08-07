@@ -19,7 +19,6 @@ The projects demonstrate essential concepts in C++ programming, including:
 - Real-world software architecture with layered design  
 - Integration of a command-line and web-based user interface  
 
-These projects reflect a practical and structured approach to learning advanced programming concepts.
 
 ## License
 
