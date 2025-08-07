@@ -1,0 +1,12 @@
+type,payers,borrowers
+unequally,Nooraldin:350;Javad:385;Mahdi:375,Taghi:1110
+equally,Ali:1000,
+equally,Ali:1000,Mahdi;Mobina
+adjustment,Mahdi:1000;Mohammad ali:1000,Ali:500
+equally,Taghi:1000,Mahdi;Saman
+adjustment,Saman:700,Mahdi:5;Nooraldin:100
+adjustment,Mamad:40,Nooraldin:5
+unequally,Mobina:90,Mahdi:40;Amin:50
+adjustment,Mamad:40,Ali:10
+adjustment,Amin:50,Ali:10
+equally,Amin:800,Mahdi;Mobina;Javad;Mohammad ali

@@ -1,0 +1,4 @@
+type,payers,borrowers
+equally,Ali:390,
+equally,Mobina:100,Mahdi;Elahe
+equally,Mahdi:400;Ali:200,Mobina;Elahe

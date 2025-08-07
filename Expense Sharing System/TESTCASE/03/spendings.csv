@@ -1,0 +1,11 @@
+type,payers,borrowers
+equally,Javad:200,Ali;Amin;Mahdi
+unequally,Saman:550;Mahdi:375,Parsam:900;Bastani:25
+equally,Mina:1000,Mahdi;Mobina;Elahe;Saman
+adjustment,Mahdi:1000;Mohammad ali:1000,Mina:500;Bastani:100
+adjustment,Elahe:400,Mahdi:100;Mina:100
+equally,Mobina:1000,Mahdi;Elahe;Amin;Bastani;Ali
+adjustment,Amin:50,Mina:10
+adjustment,Mohammad ali:43,Mina:15
+equally,Amin:800,Mahdi;Mobina;Javad;Mohammad ali
+unequally,Mahdi:800,Mahdi:500;Mobina:100;Javad:143;Mohammad ali:57

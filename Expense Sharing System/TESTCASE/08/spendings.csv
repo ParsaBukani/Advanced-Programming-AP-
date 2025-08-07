@@ -1,0 +1,6 @@
+type,payers,borrowers
+adjustment,Mina:100,Mahdi:20;Ali:10
+unequally,Elahe:90,Ali:10;Parisa:20;Mina:60
+adjustment,Elahe:200,Mahdi:100
+adjustment,Mahdi:100;Parisa:200,AmirAli:150
+unequally,Mahdi:250,Ali:230;AmirAli:20

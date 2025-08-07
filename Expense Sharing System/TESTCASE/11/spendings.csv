@@ -1,0 +1,4 @@
+type,payers,borrowers
+unequally,Ali:200;Mahdi:330,Parisa:100;Javad:100;Mobina:330
+unequally,Elahe:500,Ali:100;Mahdi:200;Parisa:200
+unequally,Mobina:200;Mahdi:300;Elahe:400,Ali:900

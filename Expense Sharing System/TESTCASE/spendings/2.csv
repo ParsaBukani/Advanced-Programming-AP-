@@ -1,0 +1,8 @@
+type,payers,borrowers
+equally,Ali:250,
+equally,Kazem:250,Amir Ali;Mahdi
+adjustment,Ali:235;Mohsen:175;Amir:210,Paria:70;Mahdi:65
+unequally,Zeynab:530;Mahdi:130,Paria:410;Amir Ali:250
+unequally,Amir Ali:115,Mahdi:75;Ali:40
+adjustment,Paria:560;Mahdi:100,Ali:40
+equally,Paria:310,

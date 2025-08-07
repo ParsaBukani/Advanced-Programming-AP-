@@ -1,0 +1,4 @@
+type,payers,borrowers
+equally,AmirAli:200,
+unequally,AmirAli:450,Ali:230;Parisa:210;Elahe:10
+equally,Elahe:200,AmirAli;Parisa

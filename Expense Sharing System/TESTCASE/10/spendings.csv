@@ -1,0 +1,5 @@
+type,payers,borrowers
+equally,Ali:250,
+equally,Mobina:380,Elahe;AmirAli;Mahdi;Ali
+adjustment,Parisa:560;Mahdi:100,Mobina:20;Ali:40
+adjustment,Mobina:560;Mahdi:100,Elahe:20;Ali:40

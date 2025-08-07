@@ -1,0 +1,6 @@
+type,payers,borrowers
+adjustment,Ali:234;Paria:792,Ali:123.55;Zeynab:563.9;Barbod:338.44
+equally,Mahdi:1000,Mahdi
+equally,Kazem:2098;Mehdi:12.87,Amir;Paria;Mohsen
+unequally,Reza:123.13;Morteza:314.3;Barbod:9876.34,Zeynab:141.23;Morteza:1343.35;Kazem:5233.53;Amir Ali:3595.65;Reza:0.01
+adjustment,Zeynab:616.98;Mehdi:12.13;Mahdi:111.99;Ali:43.32,Barbod:425.45;Amir:90.59

@@ -1,0 +1,4 @@
+type,payers,borrowers
+adjustment,Mamad:100,Mahdi:80;Parisa:5
+adjustment,Mahdi:100,Parisa:10
+adjustment,Noora:200;Javad:100,Mahdi:100;Mamad:50

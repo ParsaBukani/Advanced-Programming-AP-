@@ -1,0 +1,16 @@
+type,payers,borrowers
+equally,Mohammad:6936,
+equally,Mohammad:800,Ali;Ava;Artin;Shahzad;Hoda;Mohammad
+equally,Anna:1250,Amir;Nesa;Aryan;Shahrzad;Helya
+equally,Ava:485,Ali;Artin;Shahzad;Hoda;Mohammad
+equally,Helya:596,Amir;Nesa;Aryan;Shahrzad
+unequally,Mohammad:6936,Mohammad:6936
+unequally,Mohammad:1420,Ali:14;Ava:487;Artin:60;Shahzad:0;Hoda:710;Mohammad:149
+unequally,Anna:2298,Amir:1000;Nesa:1001;Aryan:200;Shahrzad:50;Helya:47
+unequally,Ava:13397,Ali:0;Artin:12500;Shahzad:777;Hoda:20;Mohammad:100
+unequally,Helya:2000,Amir:500;Nesa:500;Aryan:500;Shahrzad:500
+adjustment,Mohammad:6936,Mohammad:6936
+adjustment,Mohammad:88800;Ali:700,Ava:25;Artin:10;Shahzad:80;Hoda:30;Mohammad:20
+adjustment,Anna:1250;Amir:2800,Nesa:500;Aryan:400;Shahrzad:450;Helya:2400
+adjustment,Ava:485,Ali:20;Artin:14;Shahzad:12;Hoda:11;Mohammad:10
+adjustment,Helya:596,Amir:14;Nesa:2;Aryan:1;Shahrzad:1
