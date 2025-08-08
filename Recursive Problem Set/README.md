@@ -32,7 +32,8 @@ This project is licensed under the **MIT License**.
 
 ## Acknowledgements
 
-Developed under the supervision of **Dr. Ramtin Khosravi**
+Developed under the supervision of **Dr. Ramtin Khosravi**  
+
 Designed by Hadi Babalou, Ali PadYav, Amirali Rahimi, Nesa Abbasi, Erfan Asgari, Ava MirMohammadMehdi, Mahdi Noori
     
 
